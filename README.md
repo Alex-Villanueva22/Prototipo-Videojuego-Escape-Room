@@ -14,11 +14,11 @@ El reto principal fue construir una lógica de juego compleja (gestión de inven
 * **Plataforma:** WinAPE (Emulador de Amstrad CPC).
 * **Modo de Video:** Modo 0 (Permitiendo una paleta de 16 colores simultáneos para mayor detalle en sprites).
 
-## ✨ Aspectos Técnicos Destacados
-* **Gestión de Memoria:** Uso estratégico de direcciones de memoria específicas para almacenar el estado de las 7 llaves y las banderas (flags) de las habitaciones bloqueadas.
-* **Gráficos por Software:** Renderizado de sprites mediante el direccionamiento directo a la memoria de video del sistema.
-* **Lógica de Juego:** Implementación manual de bucles de control, subrutinas para el movimiento del personaje y validación de colisiones mediante etiquetas.
-* **Interfaz:** Diseño de una experiencia sencilla y funcional dentro de las restricciones del código máquina.
+## ✨ Aspectos Técnicos
+* ✅ **Gestión de Memoria:** Uso estratégico de direcciones de memoria específicas para almacenar el estado de las 7 llaves y las banderas (flags) de las habitaciones bloqueadas.
+* ✅ **Gráficos por Software:** Renderizado de sprites mediante el direccionamiento directo a la memoria de video del sistema.
+* ✅ **Lógica de Juego:** Implementación manual de bucles de control, subrutinas para el movimiento del personaje y validación de colisiones mediante etiquetas.
+* ✅ **Interfaz:** Diseño de una experiencia sencilla y funcional dentro de las restricciones del código máquina.
 
 ## 📸 Capturas del Proyecto
 > *Aquí puedes añadir un GIF del juego corriendo en el emulador WinAPE para mostrar los colores del Modo 0.*
