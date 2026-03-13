@@ -19,3 +19,6 @@ El reto principal fue construir una lógica de juego compleja (gestión de inven
 * ✅ **Gráficos por Software:** Renderizado de sprites mediante el direccionamiento directo a la memoria de video del sistema.
 * ✅ **Lógica de Juego:** Implementación manual de bucles de control, subrutinas para el movimiento del personaje y validación de colisiones mediante etiquetas.
 * ✅ **Interfaz:** Diseño de una experiencia sencilla y funcional dentro de las restricciones del código máquina.
+
+## 🎓 Contexto Académico
+Proyecto desarrollado para la asignatura de **Arquitectura de Computadoras**.
